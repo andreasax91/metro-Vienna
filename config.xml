@@ -3,7 +3,7 @@
 <name>Metro Vienna</name>
 <description>Rete della metro di Vienna </description>
 <author email="andrea.de.giovanni91@gmail.com">JS Developer Team 518 </author>
-<content src="metroVienna.html"  />
+<content src="index.html"  />
 <preferences name="android-minSdkVersion" value="26"/>
 <plugin name="cordova-plugin-geolocation" source="npm" spec="~2.1.0"/>
 <platform name="android">
