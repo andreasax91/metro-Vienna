@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget id="metroVienna" version="0.1.1" xmlsns="http://www.w3.org/ns/widget" xmlns:gap="http://phonegap.com/ns/1.0">
+<name>Metro Vienna</name>
+<description>Rete della metro di Vienna </description>
+<author email="andrea.de.giovanni91@gmail.com">JS Developer Team 518 </author>
+<content src="metroVienna.html"  />
+<preferences name="android-minSdkVersion" value="26"/>
+<plugin name="cordova-plugin-geolocation" source="npm" spec="~2.1.0"/>
+<platform name="android">
+  <icon density="ldpi" src="www/Letter-D-icon.png"/>
+</platform>
+</widget>
