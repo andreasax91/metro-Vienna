@@ -1,10 +1,14 @@
 body {
   font:24px Arial;
 }
+p {
+  text-align: center;
+}
 
 #map{
-  width:500px;
-  height:400px;
+  width:auto;
+  height:1000px;
   border:1px solid #000;
-
+  margin: auto;
+  padding: 10px;
 }
