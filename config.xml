@@ -7,6 +7,6 @@
 <preferences name="android-minSdkVersion" value="26"/>
 <plugin name="cordova-plugin-geolocation" source="npm" spec="~2.1.0"/>
 <platform name="android">
-  <icon density="ldpi" src="docs/Letter-D-icon.png"/>
+  <icon density="ldpi" src="docs/Letter-M-icon.png"/>
 </platform>
 </widget>
