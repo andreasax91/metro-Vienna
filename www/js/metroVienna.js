@@ -5,3 +5,7 @@ $(document).ready(function(){
     attribution: '&copy; OpenStreetMap'
   }).addTo( karte );
 })
+// Coordinate geografiche di Lecce, Italia
+// Latitudine: 40°21′17″ N
+// Longitudine: 18°10′20″ E
+// Altitudine sul livello del mare: 53 m
